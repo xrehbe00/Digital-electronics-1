@@ -1,2 +1,2 @@
 ## Welcome on my profile
-![Logo][]
+![Logo][Picture/logo.png]
